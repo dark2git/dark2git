@@ -24,13 +24,13 @@ My previous experience in system maintenance developed a strong analytical minds
 SPA for creating, editing, and organising personal notes.  
 Built with React, Zustand, and Tailwind. Includes authentication, search, and pagination.  
 **Role:** Full-Stack Developer  
-Repo: https://github.com/YOUR_USERNAME/NOTEHUB_REPO
+Repo: https://github.com/dark2git/09-auth
 
 ### 🔹 Network Device Checker
 Lightweight web app for monitoring devices in a local network.  
 Flask backend for device status checks, multi-language UI, and PWA-like behavior on iOS.  
 **Role:** Full-Stack Developer  
-Repo: https://github.com/YOUR_USERNAME/NETWORK_CHECKER_REPO
+Repo: https://github.com/dark2git/FlaskSkyNet
 
 ### 🔹 Bug_Busters
 Team project where I implemented the front-end layout based on a design mock-up using Vite.  
