@@ -56,7 +56,7 @@ Repo: https://github.com/kovalchuk14/book-universe
 
 ## 📫 How to reach me
 
-[LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](http://www.linkedin.com/in/vadym-samardak))   
+[LinkedIn](http://www.linkedin.com/in/vadym-samardak)   
 [Telegram](https://t.me/dark2care)  
 [Email](mailto:vadym.samardak@dark2care.com)
 
