@@ -36,7 +36,7 @@ Repo: [GitHub](https://github.com/dark2git/FlaskSkyNet)
 Team project where I implemented the front-end layout based on a design mock-up using Vite.  
 Learned collaborative development, Git workflows, and responsive design.  
 **Role:** Frontend Developer  
-Repo: https://github.com/Tetiana-Onofriichuk/Bug_Busters
+Repo: [GitHub](https://github.com/Tetiana-Onofriichuk/Bug_Busters)
 
 ### 🔹 Book-Universe
 Team project for an online bookstore.  
