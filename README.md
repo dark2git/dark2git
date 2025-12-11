@@ -61,9 +61,3 @@ Repo: https://github.com/kovalchuk14/book-universe
 [Email](mailto:vadym.samardak@dark2care.com)
 
 ---
-
-## 📊 GitHub Stats
-
-![Vadym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dark2git&show_icons=true&theme=default)
-
----
