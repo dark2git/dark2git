@@ -24,13 +24,13 @@ My previous experience in system maintenance developed a strong analytical minds
 SPA for creating, editing, and organising personal notes.  
 Built with React, Zustand, and Tailwind. Includes authentication, search, and pagination.  
 **Role:** Full-Stack Developer  
-Repo: https://github.com/dark2git/09-auth
+Repo: [GitHub](https://github.com/dark2git/09-auth)
 
 ### 🔹 Network Device Checker
 Lightweight web app for monitoring devices in a local network.  
 Flask backend for device status checks, multi-language UI, and PWA-like behavior on iOS.  
 **Role:** Full-Stack Developer  
-Repo: https://github.com/dark2git/FlaskSkyNet
+Repo: [GitHub](https://github.com/dark2git/FlaskSkyNet)
 
 ### 🔹 Bug_Busters
 Team project where I implemented the front-end layout based on a design mock-up using Vite.  
@@ -42,7 +42,8 @@ Repo: https://github.com/Tetiana-Onofriichuk/Bug_Busters
 Team project for an online bookstore.  
 Developed the responsive Footer component and handled cross-device behavior.  
 **Role:** Frontend Developer  
-Repo: https://github.com/kovalchuk14/book-universe
+Repo: [GitHub](https://github.com/kovalchuk14/book-universe)
+
 ---
 
 ## 🗣️ Languages
