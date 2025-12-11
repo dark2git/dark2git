@@ -64,6 +64,6 @@ Repo: https://github.com/kovalchuk14/book-universe
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dark2git&show_icons=true&theme=default" />
+![Vadym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dark2git&show_icons=true&theme=default)
 
 ---
