@@ -62,3 +62,10 @@ Repo: [GitHub](https://github.com/kovalchuk14/book-universe)
 [Email](mailto:vadym.samardak@dark2care.com)
 
 ---
+
+## 📊 My GitHub Stats
+
+![Vadym's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark2git&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark2git&layout=compact&theme=radical)
+
+---
