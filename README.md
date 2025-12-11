@@ -10,7 +10,7 @@ My previous experience in system maintenance developed a strong analytical minds
 
 ## 🧰 Tech Stack
 
-**Frontend:** JavaScript, React, HTML5, CSS3, Tailwind, Responsive Design  
+**Frontend:** JavaScript, React, HTML5, CSS3, Responsive Design  
 **State Management:** Zustand  
 **Backend:** Flask (Python)  
 **Tools & DevOps:** Git, GitHub, Docker, Linux (basic administration), Vite  
